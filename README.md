@@ -1,4 +1,9 @@
 # eventLoop
+这是有一道setTimeout的[面试题](http://www.tuicool.com/articles/JjuYRrN)引发的思考
+然后我查询了相关资料
+[Event loop](http://www.jianshu.com/p/1ee6c21f6efa)
+...(还有其他的，没有收藏就不贴了)
+自己总结了一下
 ##什么是事件循环：
 eventLoop执行过程
 
